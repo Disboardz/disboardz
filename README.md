@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elvis Araujo</h1>
-<h3 align="center">An Android Kotlin developer</h3>
+<h3 align="center">An Software Engineer, Full-Stack Developer</h3>
 
 - 🌱 I’m currently learning **Kotlin focused on testing and animations and Golang**
-
-- 💬 Ask me about **Kotlin, Android development**
 
 - 📫 How to reach me **elvisaraujo.g@gmail.com**
 
@@ -11,8 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/stackoverflow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/elvisjar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/elvito_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elvito_p" height="30" width="40" /></a>
 </p>
 
